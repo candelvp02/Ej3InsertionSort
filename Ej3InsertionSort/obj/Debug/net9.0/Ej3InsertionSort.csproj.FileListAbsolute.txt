@@ -1,0 +1,15 @@
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\bin\Debug\net9.0\Ej3InsertionSort.exe
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\bin\Debug\net9.0\Ej3InsertionSort.deps.json
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\bin\Debug\net9.0\Ej3InsertionSort.runtimeconfig.json
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\bin\Debug\net9.0\Ej3InsertionSort.dll
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\bin\Debug\net9.0\Ej3InsertionSort.pdb
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\obj\Debug\net9.0\Ej3InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\obj\Debug\net9.0\Ej3InsertionSort.AssemblyInfoInputs.cache
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\obj\Debug\net9.0\Ej3InsertionSort.AssemblyInfo.cs
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\obj\Debug\net9.0\Ej3InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\obj\Debug\net9.0\Ej3InsertionSort.dll
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\obj\Debug\net9.0\refint\Ej3InsertionSort.dll
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\obj\Debug\net9.0\Ej3InsertionSort.pdb
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\obj\Debug\net9.0\Ej3InsertionSort.genruntimeconfig.cache
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\obj\Debug\net9.0\ref\Ej3InsertionSort.dll
+C:\Users\perey\source\repos\Ej3InsertionSort\Ej3InsertionSort\obj\Debug\net9.0\Ej3Inser.FAC9DC2A.Up2Date
